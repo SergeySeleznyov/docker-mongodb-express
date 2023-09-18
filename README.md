@@ -1,1 +1,3 @@
-# docker-mongodb-express
+# Docker + MongoDB + MongoExpress
+
+Simplest project for experiments 
